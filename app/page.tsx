@@ -477,8 +477,8 @@ export default function HomePage() {
                 variants={fadeInUp}
                 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 tracking-tight leading-[1.1] text-balance"
               >
-                Get Any Task Done{" "}
-                <span className="text-[#1DBF73]">Across Pakistan</span>
+                Get Any Task Done Across Pakistan{" "}
+                <span className="text-[#1DBF73]">fdjgtk uyuly yfuy </span>
               </motion.h1>
 
               <motion.p
